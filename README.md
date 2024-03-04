@@ -18,5 +18,5 @@
 <h3>API keys from:</h3>
 <ul>
   <li type="circle">Погода - OpenWeatherMap</li>
-  <li> Геолокация - Ipgeolocation.io</li>
+  <li type="circle"> Геолокация - Ipgeolocation.io</li>
 </ul>
